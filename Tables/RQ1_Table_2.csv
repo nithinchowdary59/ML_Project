@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Baseline (Mean),17.31,19.96,-0.0
+Linear Regression,16.88,19.58,0.038
+Random Forest,16.4,19.18,0.076

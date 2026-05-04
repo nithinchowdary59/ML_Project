@@ -1,0 +1,11 @@
+Feature,Correlation
+energy,0.118
+danceability,0.116
+valence,0.059
+time_signature,0.039
+speechiness,0.036
+tempo,0.022
+key,0.003
+liveness,0.002
+mode,-0.012
+acousticness,-0.127
